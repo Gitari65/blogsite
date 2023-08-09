@@ -1,0 +1,25 @@
+.number-buttons{
+    font-size: 40px;
+    min-width: 300px;
+    background-color: aquamarine;
+    max-width: 800px;
+    display: grid;
+    grid-gap: 10px;
+     justify-items: center;
+    grid-template-columns: repeat(3,1fr);
+}
+.number-sign{
+    display: grid;
+    font-size: 50px;
+    background-color: brown;
+    grid-template-columns: repeat(2,1fr);
+}
+.number-equals{
+   
+ 
+   
+}
+.number-add{
+
+}
+.
